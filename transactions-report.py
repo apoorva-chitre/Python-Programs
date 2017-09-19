@@ -1,5 +1,5 @@
 # Program to validate a data file with credit card transactions and output a formatted report of valid transactions
-_author_ = "Apoorva Chitre
+_author_ = "Apoorva Chitre"
 
 import os
 import re
